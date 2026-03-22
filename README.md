@@ -5,7 +5,7 @@ A Python-based Graphical User Interface (GUI) to control the DFPlayer Mini MP3 m
 
 ![img](https://raw.githubusercontent.com/rtek1000/DFPlayer-Mini_Python_Tester_GUI/refs/heads/main/Screenshot.png)
 
-🛠 Features & Controls
+## 🛠 Features & Controls
 1. Serial Connection
 Port Selector (↻): Automatically scans your system for available USB/ACM serial ports.
 
@@ -39,7 +39,7 @@ Real-time Log: Displays Hexadecimal packets sent (TX) and received (RX).
 
 Auto-Title Update: The window title automatically updates every 5 seconds to show the ID of the file currently playing (via Query 0x4C).
 
-📂 SD Card Requirements
+## 📂 SD Card Requirements
 To use all features, organize your SD card as follows:
 
 Folders named 01, 02, etc., containing files named 001.mp3, 002.mp3.
@@ -48,7 +48,7 @@ A folder named MP3 for general files.
 
 A folder named ADVERT for interruptive announcements (files must be named 0001.mp3, 0002.mp3, etc.).
 
-🚀 How to Run
+## 🚀 How to Run
 Install dependencies: pip install pyserial
 
 Connect your DFPlayer to your computer using a USB-to-Serial adapter.
@@ -56,10 +56,6 @@ Connect your DFPlayer to your computer using a USB-to-Serial adapter.
 Run the script: python df_player_gui_en.py
 
 - Coded with the help of Google AI - Gemini.
-
-# DFPlayer Mini Python Controller v11
-
-A robust Python-based GUI to control the DFPlayer Mini MP3 module via Serial (UART). This version features auto-reconnection, real-time monitoring, and support for advanced playback modes.
 
 ## ⚡ Hardware Wiring & Tips
 
