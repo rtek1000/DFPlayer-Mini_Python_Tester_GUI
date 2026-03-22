@@ -3,6 +3,8 @@
 This script is a DFPlayer Mini Serial Controller.
 A Python-based Graphical User Interface (GUI) to control the DFPlayer Mini MP3 module via Serial (UART). This tool allows you to manage folders, volume, equalizers, and real-time status monitoring.
 
+![img](https://raw.githubusercontent.com/rtek1000/DFPlayer-Mini_Python_Tester_GUI/refs/heads/main/Screenshot.png)
+
 🛠 Features & Controls
 1. Serial Connection
 Port Selector (↻): Automatically scans your system for available USB/ACM serial ports.
