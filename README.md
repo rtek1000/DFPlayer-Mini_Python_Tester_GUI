@@ -64,6 +64,13 @@ Connect your DFPlayer to your computer using a USB-to-Serial adapter.
 
 Run the script: python df_player_gui_en.py
 
+## 🎵 Quick Start with Sample Music
+To test your setup, you can use high-quality royalty-free tracks.
+1. Download the [Free Fantasy RPG Tracks](https://alkakrab.itch.io/free-25-fantasy-rpg-game-tracks-no-copyright-vol-2).
+2. Create a folder named `01` on your FAT32 SD Card.
+3. Rename the files to `001.mp3`, `002.mp3`, etc.
+4. Use the **Folder Control** in the GUI to play them!
+
 - Coded with the help of Google AI - Gemini.
 
 ## ⚡ Hardware Wiring & Tips
