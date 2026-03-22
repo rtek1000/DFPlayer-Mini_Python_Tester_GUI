@@ -81,25 +81,6 @@ Connect the DFPlayer directly to your **Computer's USB port**.
 * **Wiring:** Connect DP/DM pins to a male USB cable.
 * **Function:** Your computer will recognize the MicroSD card as a "Removable Drive". You can drag and drop MP3 files without removing the card.
 * **Note:** While the PC is accessing the card, serial commands for playback may be ignored.
-
----
-
-## 🛠 Features
-- **Auto-Connect:** Automatically scans for `ttyUSB` or `ttyACM` ports.
-- **Robustness:** Handles cable disconnections without crashing.
-- **Equalizer:** Support for 6 EQ modes (Normal, Pop, Rock, Jazz, Classic, Bass).
-- **Folder Support:** Play specific tracks from folders `01-99`.
-- **Real-time Log:** Monitor hexadecimal responses (ACK, Card Inserted, Track ID).
-
-## 📂 SD Card Organization
-For the module to function correctly, files must be organized as follows:
-- Folders must be named `01`, `02`, etc.
-- Files must start with 3 or 4 digits: `001.mp3`, `0002_song.mp3`.
-
-## 🚀 How to Run
-1. Install dependencies:
-   ```bash
-   pip install pyserial
    
 -----
 
