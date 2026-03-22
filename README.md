@@ -5,7 +5,14 @@ A Python-based Graphical User Interface (GUI) to control the DFPlayer Mini MP3 m
 
 ![img](https://raw.githubusercontent.com/rtek1000/DFPlayer-Mini_Python_Tester_GUI/refs/heads/main/Screenshot.png)
 
-## 🛠 Features & Controls
+## 🛠 Features
+- **Auto-Connect:** Automatically scans for `ttyUSB` or `ttyACM` ports.
+- **Robustness:** Handles cable disconnections without crashing.
+- **Equalizer:** Support for 6 EQ modes (Normal, Pop, Rock, Jazz, Classic, Bass).
+- **Folder Support:** Play specific tracks from folders `01-99`.
+- **Real-time Log:** Monitor hexadecimal responses (ACK, Card Inserted, Track ID).
+
+## 🛠 Controls
 1. Serial Connection
 Port Selector (↻): Automatically scans your system for available USB/ACM serial ports.
 
@@ -48,8 +55,15 @@ A folder named MP3 for general files.
 
 A folder named ADVERT for interruptive announcements (files must be named 0001.mp3, 0002.mp3, etc.).
 
+## 📂 SD Card Organization
+For the module to function correctly, files must be organized as follows:
+- Folders must be named `01`, `02`, etc.
+- Files must start with 3 or 4 digits: `001.mp3`, `0002_song.mp3`.
+
 ## 🚀 How to Run
-Install dependencies: pip install pyserial
+1. Install dependencies:
+   ```bash
+   pip install pyserial
 
 Connect your DFPlayer to your computer using a USB-to-Serial adapter.
 
