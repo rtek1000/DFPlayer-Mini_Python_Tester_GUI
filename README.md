@@ -91,7 +91,7 @@ Connect the DFPlayer directly to your **Computer's USB port**.
 * **Function:** Your computer will recognize the MicroSD card as a "Removable Drive". You can drag and drop MP3 files without removing the card.
 * **Note:** While the PC is accessing the card, serial commands for playback may be ignored.
 
-### 💾 Storage Requirements (SD Card & U-Disk)
+#### 💾 Storage Requirements (SD Card & U-Disk)
 
 * **Max Capacity:** 32GB (MicroSDHC or USB 2.0).
 * **File System:** FAT16 or FAT32 only (exFAT is NOT supported).
