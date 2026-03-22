@@ -3,6 +3,8 @@
 This script is a DFPlayer Mini Serial Controller.
 A Python-based Graphical User Interface (GUI) to control the DFPlayer Mini MP3 module via Serial (UART). This tool allows you to manage folders, volume, equalizers, and real-time status monitoring.
 
+- Coded with the help of Google AI - Gemini.
+
 ![img](https://raw.githubusercontent.com/rtek1000/DFPlayer-Mini_Python_Tester_GUI/refs/heads/main/Screenshot.png)
 
 ## 🛠 Features
@@ -70,8 +72,6 @@ To test your setup, you can use high-quality royalty-free tracks.
 2. Create a folder named `01` on your FAT32 SD Card.
 3. Rename the files to `001.mp3`, `002.mp3`, etc.
 4. Use the **Folder Control** in the GUI to play them!
-
-- Coded with the help of Google AI - Gemini.
 
 ## ⚡ Hardware Wiring & Tips
 
