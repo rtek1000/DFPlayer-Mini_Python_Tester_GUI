@@ -65,9 +65,9 @@ A folder named ADVERT for interruptive announcements (files must be named 0001.m
 Connect your DFPlayer to your computer using a USB-to-Serial adapter.
 
 Run the script:
-```bash
-python df_player_gui.py
-```
+   ```bash
+   python df_player_gui.py
+   ```
 ## 🎵 Quick Start with Sample Music
 To test your setup, you can use high-quality royalty-free tracks.
 1. Download the [Free Fantasy RPG Tracks](https://alkakrab.itch.io/free-25-fantasy-rpg-game-tracks-no-copyright-vol-2).
