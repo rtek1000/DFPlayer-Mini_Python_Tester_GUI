@@ -64,7 +64,7 @@ A folder named ADVERT for interruptive announcements (files must be named 0001.m
 
 Connect your DFPlayer to your computer using a USB-to-Serial adapter.
 
-Run the script: python df_player_gui_en.py
+Run the script: python df_player_gui.py
 
 ## 🎵 Quick Start with Sample Music
 To test your setup, you can use high-quality royalty-free tracks.
