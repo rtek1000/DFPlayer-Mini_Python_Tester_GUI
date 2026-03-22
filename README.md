@@ -55,11 +55,6 @@ A folder named MP3 for general files.
 
 A folder named ADVERT for interruptive announcements (files must be named 0001.mp3, 0002.mp3, etc.).
 
-## 📂 SD Card Organization
-For the module to function correctly, files must be organized as follows:
-- Folders must be named `01`, `02`, etc.
-- Files must start with 3 or 4 digits: `001.mp3`, `0002_song.mp3`.
-
 ## 🚀 How to Run
 1. Install dependencies:
    ```bash
