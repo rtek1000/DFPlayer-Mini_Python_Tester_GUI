@@ -106,6 +106,8 @@ List of related parts:
 - DFPlayer Mini
 - FTDI232 USB Serial Converter (red board)
 - 1k resistor
+- SD card
+- Udisk
 - USB A connector (for USB disk)
 - Computer with Python (Linux)
 
