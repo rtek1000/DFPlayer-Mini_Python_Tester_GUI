@@ -49,9 +49,9 @@ Auto-Title Update: The window title automatically updates every 5 seconds to sho
 ## 📂 SD Card Requirements
 To use all features, organize your SD card as follows:
 
-Folders named 01, 02, etc., containing files named 001.mp3, 002.mp3.
+Folders named 01, 02, etc. (01-99), containing files named 001.mp3, 002.mp3.
 
-A folder named MP3 for general files.
+A folder named MP3 for general files (must be named 0001.mp3, 0002.mp3, etc.).
 
 A folder named ADVERT for interruptive announcements (files must be named 0001.mp3, 0002.mp3, etc.).
 
